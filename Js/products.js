@@ -20,11 +20,11 @@ fetch(url)
     products = data;
 
     if (contenedorCamisetas) {
-      cargarCamisetas();
+      cargarCamisetas(...products);
     } else if (contenedorShorts) {
-      cargarShorts();
+      cargarShorts(...products);
     } else if (contenedorTodos) {
-      cargarTodos();
+      cargarTodos(...products);
     }
 
     actualizarNumerito();
