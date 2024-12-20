@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "camiseta Under",
+        "description": "camiseta marca Under titular",
+        "price": 75000,
+        "category": "camisetas",
+        "image": "/img/camisetas/camiseta_under_titular.jpg"
+    },
+    {
+        "id": 2,
+        "name": "camiseta Nike",
+        "description": "camiseta marca Nike suplente amarilla",
+        "price": 75000,
+        "category": "camisetas",
+        "image": "/img/camisetas/camiseta_nike_suplente_amarilla.jpg"
+    },
+    {
+        "id": 3,
+        "name": "camiseta Nike",
+        "description": "camiseta marca Nike suplente blanca",
+        "price": 75000,
+        "category": "camisetas",
+        "image": "/img/camisetas/camiseta_nike_suplente_blanca.jpg"
+    },
+    {
+        "id": 4,
+        "name": "camiseta Umbro",
+        "description": "camiseta marca umbro arquero",
+        "price": 75000,
+        "category": "camisetas",
+        "image": "/img/camisetas/camiseta_umbro_arquero_rosa.jpg"
+    },
+    {
+        "id": 5,
+        "name": "camiseta Umbro",
+        "description": "camiseta marca umbro suplente rosa",
+        "price": 75000,
+        "category": "camisetas",
+        "image": "/img/camisetas/camiseta_umbro_suplente_rosa.jpg"
+    },
+    {
+        "id": 6,
+        "name": "camiseta Umbro",
+        "description": "camiseta marca Umbro titular",
+        "price": 75000,
+        "category": "camisetas",
+        "image": "/img/camisetas/camiseta_umbro_titular_homenajePalma.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Short Nike",
+        "description": "short marca Nike arquero",
+        "price": 75000,
+        "category": "short",
+        "image": "/img/shorts/short_nike_arquero_titular_amarillo.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Short umbro",
+        "description": "short marca Umbro arquero",
+        "price": 75000,
+        "category": "short",
+        "image": "/img/shorts/short_umbro_arquero_suplente_verde.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Short Under",
+        "description": "short marca Under arquero",
+        "price": 75000,
+        "category": "short",
+        "image": "/img/shorts/short_under_arquero_suplente_celeste.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Short Under",
+        "description": "short marca Under",
+        "price": 75000,
+        "category": "short",
+        "image": "/img/shorts/short_under_arquero_titular.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Short Umbro",
+        "description": "short marca Umbro",
+        "price": 75000,
+        "category": "short",
+        "image": "/img/shorts/shortAzul.webp"
+    },
+    {
+        "id": 12,
+        "name": "chomba azul",
+        "description": "chomba umbro",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/remeras/chomba_umbro_azul.jpg"
+    },
+    {
+        "id": 13,
+        "name": "remera umbro",
+        "description": "remera entrenamiento marca umbro ",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/remeras/entrenamiento_umbro_lineas.jpg"
+    },
+    {
+        "id": 14,
+        "name": "remera campeones",
+        "description": "remera blanca",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/remeras/remera_blanca_campeones.webp"
+    },
+    {
+        "id": 15,
+        "name": "remera under",
+        "description": "remera marca under",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/remeras/remera_under_entrenamiento_azul.jpg"
+    },
+    {
+        "id": 16,
+        "name": "bermuda azul",
+        "description": "bermuda",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/otros/bermuda_azul.webp"
+    },
+    {
+        "id": 17,
+        "name": "gorra",
+        "description": "gorra",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/otros/gorra_azul_plana.webp"
+    },
+    {
+        "id": 18,
+        "name": "piluso",
+        "description": "piluso azul",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/otros/piluso_azul.webp"
+    },
+    {
+        "id": 19,
+        "name": "campera Nike",
+        "description": "campera marca Nike",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/camperas/campera_nike_gris.jpg"
+    },
+    {
+        "id": 20,
+        "name": "campera umbro",
+        "description": "campera pilotin marca umbro",
+        "price": 75000,
+        "category": "todos",
+        "image": "/img/camperas/campera_umbro_azul.jpg"
+    }
+]
