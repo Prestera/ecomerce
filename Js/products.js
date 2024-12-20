@@ -1,5 +1,5 @@
 //20241219214009
-const url = "https://api.jsonbin.io/v3/qs/6765c82be41b4d34e468bfe9";
+const url = "https://api.jsonbin.io/v3/qs/6765cb51e41b4d34e468c150";
 
 let products = [];
 const contenedorCamisetas = document.getElementById("contenedorCamisetas");
