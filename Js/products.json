@@ -5,7 +5,7 @@
         "description": "camiseta marca Under titular",
         "price": 75000,
         "category": "camisetas",
-        "image": "/img/camisetas/camiseta_under_titular.jpg"
+        "image": "../img/camisetas/camiseta_under_titular.jpg"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "description": "camiseta marca Nike suplente amarilla",
         "price": 75000,
         "category": "camisetas",
-        "image": "/img/camisetas/camiseta_nike_suplente_amarilla.jpg"
+        "image": "../img/camisetas/camiseta_nike_suplente_amarilla.jpg"
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "description": "camiseta marca Nike suplente blanca",
         "price": 75000,
         "category": "camisetas",
-        "image": "/img/camisetas/camiseta_nike_suplente_blanca.jpg"
+        "image": "../img/camisetas/camiseta_nike_suplente_blanca.jpg"
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "description": "camiseta marca umbro arquero",
         "price": 75000,
         "category": "camisetas",
-        "image": "/img/camisetas/camiseta_umbro_arquero_rosa.jpg"
+        "image": "../img/camisetas/camiseta_umbro_arquero_rosa.jpg"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "description": "camiseta marca umbro suplente rosa",
         "price": 75000,
         "category": "camisetas",
-        "image": "/img/camisetas/camiseta_umbro_suplente_rosa.jpg"
+        "image": "../img/camisetas/camiseta_umbro_suplente_rosa.jpg"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "description": "camiseta marca Umbro titular",
         "price": 75000,
         "category": "camisetas",
-        "image": "/img/camisetas/camiseta_umbro_titular_homenajePalma.jpg"
+        "image": "../img/camisetas/camiseta_umbro_titular_homenajePalma.jpg"
     },
     {
         "id": 7,
