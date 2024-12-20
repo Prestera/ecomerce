@@ -1,5 +1,5 @@
 //20241219214009
-URL = "https://raw.githubusercontent.com/Prestera/TiendaCanalla/refs/heads/main/Js/products.json";
+URL = "https://raw.githubusercontent.com/Prestera/ecomerce/refs/heads/main/Js/products.json";
 
 let products = [];
 const contenedorCamisetas = document.getElementById("contenedorCamisetas");
