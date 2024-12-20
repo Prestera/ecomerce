@@ -121,6 +121,11 @@ function navCarrito() {
     nav.classList.add("fixed-top");
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+    actualizarBtnAgregar();
+});
+
+
 btnVaciar.addEventListener("click", vaciarCarrito);
 
     function vaciarCarrito(){
