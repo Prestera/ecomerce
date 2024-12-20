@@ -1,5 +1,5 @@
 //20241219214009
-URL = "https://raw.githubusercontent.com/Prestera/ecomerce/refs/heads/main/Js/products.json";
+const url = "https://raw.githubusercontent.com/Prestera/ecomerce/refs/heads/main/Js/products.json";
 
 let products = [];
 const contenedorCamisetas = document.getElementById("contenedorCamisetas");
@@ -9,7 +9,7 @@ let btnAgregar = document.querySelectorAll(".producto-agregar");
 let numerito = document.querySelector("#numCarrito");
 
 
-fetch(URL)
+fetch(url)
   .then((response) => {
     if (!response.ok) {
       throw new Error("Error al cargar el archivo JSON");
