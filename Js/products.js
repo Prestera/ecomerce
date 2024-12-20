@@ -1,5 +1,5 @@
 //20241219214009
-const url = "https://raw.githubusercontent.com/Prestera/ecomerce/refs/heads/main/Js/products.json";
+const url = "https://api.jsonbin.io/v3/qs/6765c82be41b4d34e468bfe9";
 
 let products = [];
 const contenedorCamisetas = document.getElementById("contenedorCamisetas");
